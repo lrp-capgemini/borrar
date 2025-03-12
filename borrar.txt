@@ -3,3 +3,5 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?E61EC69A230F65EAF3A4EF70D
 https://drive.google.com/file/d/1_vyVjfe3Sm1yi-y5JtJUhblzNbxqWUMj/view?usp=sharing
 
 https://drive.google.com/uc?export=download&id=1_vyVjfe3Sm1yi-y5JtJUhblzNbxqWUMj
+
+https://github.com/lrp-capgemini/models/raw/refs/heads/main/asistente.glb
