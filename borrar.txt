@@ -5,3 +5,6 @@ https://drive.google.com/file/d/1_vyVjfe3Sm1yi-y5JtJUhblzNbxqWUMj/view?usp=shari
 https://drive.google.com/uc?export=download&id=1_vyVjfe3Sm1yi-y5JtJUhblzNbxqWUMj
 
 https://github.com/lrp-capgemini/models/raw/refs/heads/main/asistente.glb
+
+https://www.dropbox.com/scl/fi/o5sm7z6cido7ojeyworm0/solar.glb?rlkey=wywk15x36hatavs1kmpg3q0da&st=dactms4p&raw=1
+
